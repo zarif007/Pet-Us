@@ -112,7 +112,6 @@ web3.eth.getAccounts(function(error, accounts) {
       console.log(err.message);
     });
   });
-
   }
 
 };
